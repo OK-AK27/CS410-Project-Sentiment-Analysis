@@ -35,32 +35,32 @@ This project compares traditional machine learning approaches and transformer-ba
 ├── README.md
 └── requirements.txt
 
-## Installation & Setup 
+# Installation & Setup 
 
-# 1. Clone this repository
+## 1. Clone this repository
 git clone <repo-url>
 cd Sentiment-Analysis-of-Social-Media-Reviews
 
-# 2. Install dependencies
+## 2. Install dependencies
 pip install -r requirements.txt
 
 
-## Running the Project
+# Running the Project
 
-# 1. Train Classical Models
+## 1. Train Classical Models
 python3 scripts/train_classical_models.py
 
-# 2. Train BERT Model
+## 2. Train BERT Model
 python3 scripts/train_bert_model.py
 
-# 3. Evaluate Models
+## 3. Evaluate Models
 python3 scripts/evaluate_model.py
 
-# 4. Visualize Results
+## 4. Visualize Results
 python3 scripts/visualize_results.py
 
 
-## Results & Analysis
+# Results & Analysis
 
 | Model                   | Accuracy  | Training Time | Notes                       |
 | ----------------------- | --------- | ------------- | --------------------------- |
@@ -72,7 +72,7 @@ python3 scripts/visualize_results.py
 
 
 
-## Accuracy Comparison – Classical vs. BERT
+# Accuracy Comparison – Classical vs. BERT
 <img width="779" height="576" alt="image" src="https://github.com/user-attachments/assets/8cfeccac-03bd-4779-a339-83f65361a19e" /># Sentiment Analysis: Classical NLP vs BERT
 
 
@@ -81,13 +81,13 @@ python3 scripts/visualize_results.py
 2. Classical models trained quickly but struggled to capture context
 3. BERT provides superior language understanding but is computationally expensive
 
-## Confusion Matrix - BERT
+# Confusion Matrix - BERT
 [[11013  1487]
  [  581 11919]]
 It shows BERT slightly confuses positive sentiment
 (example: sarcasm, mixed reviews).
 
-## Conclusion
+# Conclusion
 1. BERT achieves state-of-the-art performance
 2. Classical models are lightweight and practical for fast deployment
 3. Choice depends on real-world constraints (accuracy vs speed)
