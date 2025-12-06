@@ -91,4 +91,3 @@ It shows BERT slightly confuses positive sentiment
 1. BERT achieves state-of-the-art performance
 2. Classical models are lightweight and practical for fast deployment
 3. Choice depends on real-world constraints (accuracy vs speed)
->>>>>>> dfe0d51 (Initial commit (without large model weights))
