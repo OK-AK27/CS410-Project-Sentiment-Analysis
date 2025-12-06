@@ -3,9 +3,10 @@ This project compares traditional machine learning approaches and transformer-ba
 
 ---
 
-## 📁 Project Structure
-=======
-📁 Sentiment-Analysis-of-Social-Media-Reviews
+# Project Structure
+
+**Sentiment-Analysis-of-Social-Media-Reviews**
+
 │
 ├── data/                      # Cleaned training & test datasets
 │   ├── imdb_train_clean.csv
