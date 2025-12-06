@@ -8,7 +8,7 @@ This project compares traditional machine learning approaches and transformer-ba
 **Sentiment-Analysis-of-Social-Media-Reviews**
 
 │
-├── data/                      # Cleaned training & test datasets
+ data/                      # Cleaned training & test datasets
 │   ├── imdb_train_clean.csv
 │   ├── imdb_test_clean.csv
 │
