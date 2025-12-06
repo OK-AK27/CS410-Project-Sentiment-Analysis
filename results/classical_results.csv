@@ -1,0 +1,7 @@
+Model,Training Time (s),Accuracy
+Multinomial Naive Bayes,0.01,0.8428
+Multinomial Naive Bayes,0.01,0.8428
+Logistic Regression,0.17,0.8842
+Logistic Regression,0.17,0.8842
+Linear SVM,0.24,0.8728
+Linear SVM,0.24,0.8728

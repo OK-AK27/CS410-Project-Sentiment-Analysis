@@ -1,0 +1,5 @@
+Model,Accuracy,F1,Precision,Recall,Training Time (sec),Inference Speed (reviews/sec)
+Multinomial NB,0.8428,-,-,-,0.01,~0.00
+Logistic Regression,0.8842,-,-,-,0.17,~0.00
+Linear SVM,0.8728,-,-,-,0.24,~0.00
+BERT (base),0.91728,0.9201729329112950,0.8890795166343430,0.95352,45280.7365591526,6.706703758299240
