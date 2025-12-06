@@ -8,33 +8,33 @@ This project compares traditional machine learning approaches and transformer-ba
 **Sentiment-Analysis-of-Social-Media-Reviews**
 
 │
- data/                      # Cleaned training & test datasets
-│   ├── imdb_train_clean.csv
-│   ├── imdb_test_clean.csv
+├ data/                      # Cleaned training & test datasets
+│   ├ imdb_train_clean.csv
+│   ├ imdb_test_clean.csv
 │
-├── scripts/                   # All training/evaluation scripts
-│   ├── train_classical_models.py
-│   ├── train_bert_model.py
-│   ├── evaluate_model.py
-│   ├── visualize_results.py
-│   ├── preprocess_text.py
+├ scripts/                   # All training/evaluation scripts
+│   ├ train_classical_models.py
+│   ├ train_bert_model.py
+│   ├ evaluate_model.py
+│   ├ visualize_results.py
+│   ├ preprocess_text.py
 │
-├── results/
-│   ├── classical_results.csv
-│   ├── metrics.csv
-│   ├── confusion_matrix_bert.csv
-│   ├── plots/
-│       ├── classical_accuracy.png
-│       ├── classical_training_time.png
-│       ├── classical_vs_bert_accuracy.png
+├ results/
+│   ├ classical_results.csv
+│   ├ metrics.csv
+│   ├ confusion_matrix_bert.csv
+│   ├ plots/
+│       ├ classical_accuracy.png
+│       ├ classical_training_time.png
+│       ├ classical_vs_bert_accuracy.png
 │
-├── models/
-│   ├── bert_imdb_sentiment/
-│      ├── config.json
-│      ├── pytorch_model.bin
+├ models/
+│   ├ bert_imdb_sentiment/
+│      ├ config.json
+│      ├ pytorch_model.bin
 │
-├── README.md
-└── requirements.txt
+├ README.md
+└requirements.txt
 
 # Installation & Setup 
 
