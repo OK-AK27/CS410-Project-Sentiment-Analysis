@@ -1,4 +1,3 @@
-<img width="779" height="576" alt="image" src="https://github.com/user-attachments/assets/8cfeccac-03bd-4779-a339-83f65361a19e" /># Sentiment Analysis: Classical NLP vs BERT
 
 This project compares traditional machine learning approaches and transformer-based models (BERT) for sentiment analysis on the IMDB movie review dataset.
 
@@ -74,7 +73,7 @@ python3 scripts/visualize_results.py
 
 
 ## Accuracy Comparison – Classical vs. BERT
-<img width="779" height="576" alt="image" src="https://github.com/user-attachments/assets/d31ae0c8-ecf6-4eb6-b0b2-45b58e91c579" />
+<img width="779" height="576" alt="image" src="https://github.com/user-attachments/assets/8cfeccac-03bd-4779-a339-83f65361a19e" /># Sentiment Analysis: Classical NLP vs BERT
 
 
 # Key Insights:
